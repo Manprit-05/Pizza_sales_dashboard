@@ -11,3 +11,8 @@ Key Features:
 ● Category-wise and size-wise revenue breakdown.
 ● Top 5 and Bottom 5 pizzas based on revenue and quantity sold.
 ● Interactive filters for date range, category, and size for dynamic analysis
+
+This project was developed during my 3-month Data Analytics Internship at Master Union, where I gained hands-on experience in:
+● Data analysis and storytelling
+● Building business dashboards
+● Transforming raw data into meaningful insights
